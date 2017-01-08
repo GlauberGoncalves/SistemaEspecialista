@@ -1,0 +1,25 @@
+Variaveis genericas
+
+	homem		ok
+	mulher		ok
+	maisvelho	ok
+	maisnovo	ok
+
+	teamamentou		ok
+	filhosmesmamae	ok
+	amamentouvoce	ok
+	filhotioa		ok
+	filhoavoa		ok
+
+
+Nivel 1
+O seu parente é homem?								homem
+O seu parente é mulher?								mulher
+O seu parente é mais velho que você?				maisvelho
+O seu parente é mais novo que você?					maisnovo
+
+Nivel 2
+O seu parente é filho(a) do seu avô ou avó?			filhoavoa
+O seu parente e você são filhos da mesma mãe?		filhosmesmamae
+O seu parente é filho de sua tia ou tio?			filhotioa
+O seu parente é filho de sua avó ou avô?			filhoavoa
