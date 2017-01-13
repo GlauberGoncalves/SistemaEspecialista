@@ -1,7 +1,7 @@
 class Parente():
 	# metodo construtor
 	def __init__(self):
-		self.resultado = ['filho','irmão','primo','tio','pai','avô','neto','filha','irmã','prima','tia','mãe','avó','neta']
+		self.resultado = ['filho','irmão','primo','tio','sobrinho','pai','avô','neto','filha','irmã','prima','tia','sobrinha','mãe','avó','neta']
 		self.pessoa = []
 		self.db = []
 		# abre o arquivo db.txt em modo leitura e passa os dados para

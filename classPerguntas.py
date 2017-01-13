@@ -3,11 +3,12 @@ class Pergunta:
 	def __init__(self):
 		self.level = [
 		['O seu parente é um homem?','homem'],
-		#['O seu parente é mais velho(a) que você?','maisvelho'],
-		['O seu parente é filho(a) do seu avô ou avó?','filhoavoa'],
-		['O seu parente e você são filhos da mesma mãe?','filhomesmamae'],
+		['O seu parente é filho do teu irmão ou irmã?','filhoirmao'],
+		['O seu parente é filho(a) do seu pai ou mãe?','filhopaimae'],
 		['O seu parente é filho(a) de sua tia ou tio?','filhotioa'],
-		['O seu parente é filho de sua avó ou avô?','filhoavoa']]
+		['O seu parente é filho(a) de seu primo ou prima?', 'filhoprimoa'],
+		['O seu parente é filho da seu avô ou avó?','filhoavoa'],		
+		]
 
 	def texto(self):
 		string = self.level[0]
